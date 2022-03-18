@@ -1,4 +1,4 @@
-### Olá eu sou o Igor Lima, desenvolvedor back-end 👋
+### Olá eu sou o Igor Lima 👋
 - 🔭 Atualmente estudando C# e Delphi 
 <div align="center">
   <a href="https://github.com/IgorLima20">
